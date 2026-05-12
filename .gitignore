@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Data (CIFAR-10 cache, ~170 MB)
+data/
+
+# Outputs
+*.pt
+*.pth
+runs/
+checkpoints/
+results/
+
+# Compiled report binary
+report/AlexNet_Report.docx
+report/AlexNet_Report.pdf
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local agent / tooling state
+.claude/
