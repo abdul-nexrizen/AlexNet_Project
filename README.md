@@ -1,6 +1,6 @@
 # AlexNet vs LeNet-5 on CIFAR-10
 
-***Deep Learning for Computer Vision**
+**Deep Learning for Computer Vision**
 
 ## What's in here
 
