@@ -93,4 +93,4 @@ Apple Silicon Mac, or plain CPU.
 3. Hinton, G. E. et al. (2012). *Improving neural networks by preventing
    co-adaptation of feature detectors.* arXiv:1207.0580.
 4. PyTorch documentation - <https://pytorch.org/docs/>
-5. Goodfellow, I., Bengio, Y., Courville, A. (2016). *Deep Learning.* MIT Press. Available at: [MIT Press Deep Learning Book](https://mitpress.mit.edu/9780262035613/deep-learning/)
+
