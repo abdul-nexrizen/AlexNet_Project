@@ -1,7 +1,6 @@
 # AlexNet vs LeNet-5 on CIFAR-10
 
-**Assignment 3 - Deep Learning for Computer Vision**
-Addis Ababa Institute of Technology - School of Information Technology and Engineering
+***Deep Learning for Computer Vision**
 
 ## What's in here
 
